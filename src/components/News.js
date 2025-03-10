@@ -32,18 +32,20 @@ export class News extends Component {
   }
 
   async componentDidMount() {
-    this.fetchArticles(this.state.page);
+    this.fetchMoreData();
   }
 
   fetchArticles = async () => {
     this.setState({ loading: true });
-    this.props.setProgress
+    this.props.setProgress(10);
     
-    const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=d9d2b3631215404693283779a4582d0d&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+    const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page}&pageSize=${this.props.pageSize}`;
     
     try {
       let data = await fetch(url);
+      this.props.setProgress(30);
       let parsedData = await data.json();
+      this.props.setProgress(60);
   
       if (parsedData.status !== "ok") {
         console.error("API Error:", parsedData);
@@ -56,6 +58,7 @@ export class News extends Component {
         totalResults: parsedData.totalResults || 0,
         loading: false,
       });
+      this.props.setProgress(100);
     } catch (error) {
       console.error("Fetching articles failed:", error);
       this.setState({ loading: false });
@@ -88,13 +91,13 @@ export class News extends Component {
                 <div className="col-md-4" key={article.url}>
                   <NewsReader
                     className="news-card card shadow"
-                    title={article.title}
-                    description={article.description}
-                    link={article.urlToImage}
+                    title={article.title || "No Title Available"}
+                    description={article.description || "No Description Available"}
+                    link={article.urlToImage || "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZCIgfUfJUyzxTaCzWkZQIKzCltjNHq-Ti0g&s"} 
                     newsUrl={article.url}
-                    author={article.author} 
-                    date={article.publishedAt}
-                    source={article.source.name}
+                    author={article.author || "Unknown"} 
+                    date={article.publishedAt || "No Date"}
+                    source={article.source.name || "Unknown Source"}
                   />
                 </div>
               ))}
