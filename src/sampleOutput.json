@@ -1,0 +1,201 @@
+{
+    "status": "ok",
+    "totalResults": 15,
+    "articles": [
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Noëlle Bölling",
+            "title": "Sam Altman investiert erneut in den Traum vom ewigen Leben",
+            "description": "Retro Biosciences sammelt eine Milliarde Dollar. Zu den größten Förderern des Biotech-Startups, das zur Verlän",
+            "url": "https://t3n.de/news/sam-altman-investiert-erneut-in-den-traum-vom-ewigen-leben-1669993/",
+            "urlToImage": "https://t3n.de/news/wp-content/uploads/2023/08/KI-Medizin.jpg",
+            "publishedAt": "2025-01-25T10:03:23Z",
+            "content": "Sam Altman, CEO von OpenAI, verstärkt sein Engagement in das Biotech-Startup Retro Biosciences, das sich zum Ziel gesetzt hat, die menschliche Lebenserwartung um zehn Jahre zu verlängern. Bereits 202… [+2923 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Wired",
+            "title": "How Chinese AI Startup DeepSeek Made a Model that Rivals OpenAI",
+            "description": "When Chinese quant hedge fund founder Liang Wenfeng went into AI research, he took 10,000 Nvidia chips and assembled a team of young, ambitious talent. Two years later, DeepSeek exploded on the scene.",
+            "url": "https://www.wired.com/story/deepseek-china-model-ai/",
+            "urlToImage": "https://media.wired.com/photos/67916f9e8f0de7e17273dc69/191:100/w_1280,c_limit/DeepSeek-AI-Business-shutterstock_2553453597.jpg",
+            "publishedAt": "2025-01-25T10:00:00Z",
+            "content": "Today, DeepSeek is one of the only leading AI firms in China that doesnt rely on funding from tech giants like Baidu, Alibaba, or ByteDance.\r\nA Young Group of Geniuses Eager to Prove Themselves\r\nAcco… [+4212 chars]"
+        },
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": null,
+            "title": "Startup gründen: In 48 Stunden zum lukrativen Side-Hustle",
+            "description": "Der AppSumo-Gründer Noah Kagan behauptet, ein Startup an einem Wochenende gründen zu können. Ein Buchauszug.",
+            "url": "https://www.businessinsider.de/gruenderszene/perspektive/dieser-serien-gruender-verraet-wie-ihr-in-48-stunden-einen-lukrativen-side-hustle-aufbaut/",
+            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2025/01/202501_GS_Artikel_Buch_Million_1800x1200.jpg?ver=1737714510",
+            "publishedAt": "2025-01-24T10:34:42+00:00",
+            "content": "Ein Traum, so alt wie der Kapitalismus: schnell und einfach reich werden. Der AppSumo-Gründer Noah Kagan behauptet, ein Startup an einem Wochenende gründen zu können. Ein Buchauszug.Noah Kagan ist so… [+10741 chars]"
+        },
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": null,
+            "title": "13 Mio. für Whatsapp der Baubranche – mit diesem Pitchdeck",
+            "description": "Kraaft hat ein Bauarbeiter-Planungstool entwickelt, das Zettelwirtschaft beenden soll. Wir zeigen euch das Pitchdeck, das dem Startup Millionen brachte.",
+            "url": "https://www.businessinsider.de/gruenderszene/business/13-millionen-euro-fuer-whatsapp-der-baubranche-mit-diesem-pitchdeck-swr/",
+            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2025/01/image-7.png?ver=1737364374",
+            "publishedAt": "2025-01-24T09:48:04+00:00",
+            "content": "Das Baugewerbe gehört zu den weltweit größten Wirtschaftszweigen und wird auch in Deutschland nach wie vor als Schlüsselbranche betrachtet. Gleichzeitig gehört der Sektor zu den am wenigsten digitali… [+2588 chars]"
+        },
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": null,
+            "title": "Wahl 2025: Das plant die AfD für die Startup-Szene",
+            "description": "Ein Programm speziell für Startups in Deutschland hat die AfD nicht. Einige Punkte betreffen aber auch die Gründerszene. Ein Blick ins Wahlprogramm.",
+            "url": "https://www.businessinsider.de/gruenderszene/perspektive/windraeder-niederreissen-und-innovationen-foerdern-das-plant-die-afd-auch-fuer-die-startup-szene/",
+            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2025/01/202501_GS_Artikel_Wahlprogramm_1800x1200_AFD.jpg?ver=1737379080",
+            "publishedAt": "2025-01-24T09:39:40+00:00",
+            "content": "Ein Programm speziell für die Zukunft von Startups in Deutschland hat die AfD nicht. Einige Punkte ihrer Wirtschaftspläne betreffen aber auch die Gründerszene. Wir haben uns das Wahlprogramm genauer … [+8298 chars]"
+        },
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": null,
+            "title": "Bürokratie: Die Parteien versprechen Veränderung – kann das klappen?",
+            "description": "Bürokratieabbau ist zum Schlagwort des Wahlkampfes geworden – was soll das eigentlich heißen? Drei Startup-Unternehmer berichten uns von ihren Erfahrungen.",
+            "url": "https://www.businessinsider.de/gruenderszene/perspektive/so-bremst-buerokratie-startups-aus-doch-die-parteien-versprechen-veraenderung-kann-das-klappen/",
+            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2025/01/202501_GS_Artikel_Startups_vs_Behoerden_1800x1200.jpg?ver=1737636921",
+            "publishedAt": "2025-01-24T07:00:00+00:00",
+            "content": "Es gibt wohl kaum ein Thema, über das sich in Deutschland so oft und gerne ausgelassen wird, wie über die Bürokratie. (Mit Ausnahme der Deutschen Bahn. Aber um die soll es hier jetzt nicht gehen.) Se… [+1458 chars]"
+        },
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": null,
+            "title": "Pre-Seed-Pitchdeck: So klappt die erste Finanzierungsrunde",
+            "description": "Wie können Startups ohne Kunden oder Produkt Investoren überzeugen? Wie ein gutes Pre-Seed-Pitchdeck aussieht, erfahrt ihr hier.",
+            "url": "https://www.businessinsider.de/gruenderszene/business/pre-seed-pitchdeck-so-klappt-die-erste-finanzierungsrunde/",
+            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2025/01/202501_GS_Artikel_Pitchdecks_1800x1200.jpg?ver=1737556953",
+            "publishedAt": "2025-01-24T05:00:00+00:00",
+            "content": "In der Pre-Seed-Phase haben Startups meistens noch kein Produkt, sondern nur eine Vision. Doch wie überzeugt man Investoren, ohne jegliche Zahlen und Metriken vorweisen zu können? Reicht der Backgrou… [+782 chars]"
+        },
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": null,
+            "title": "Konsolidierung bei Camper-Startups: Vanever übernimmt Off aus Insolvenz",
+            "description": "Das Unternehmen macht weiter, aber der Großteil der Belegschaft musste gehen: Hintergründe zur jüngsten Übernahme in der Camper-Startup-Szene",
+            "url": "https://www.businessinsider.de/gruenderszene/automotive-mobility/konsolidierung-bei-camper-startups-vanever-uebernimmt-off-aus-der-insolvenz-die-hintergruende/",
+            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2025/01/202501_GS_Artikel_Camper_1800x1200.jpg?ver=1737637724",
+            "publishedAt": "2025-01-23T13:29:14+00:00",
+            "content": "Das Münchner Campervan-Startup Off (ehemals Camperboys) hat nach der Insolvenzmeldung Ende Oktober 2024 nun einen Käufer gefunden. Heißt: Es geht weiter wenn auch im kleineren Rahmen, wie Off-Gründer… [+1709 chars]"
+        },
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": null,
+            "title": "7 Robotik-Startups aus Deutschland, die 2025 viel vorhaben",
+            "description": "Gründerszene stellt euch hier sieben Robotik-Startups vor, die internationale VCs bereits auf dem Radar haben.",
+            "url": "https://www.businessinsider.de/gruenderszene/technologie/7-robotik-startups-aus-deutschland-die-2025-viel-vorhaben/",
+            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2025/01/202511_GS_Artikel_Robo_1800x1200.jpg?ver=1737474687",
+            "publishedAt": "2025-01-23T05:00:00+00:00",
+            "content": "Der deutsche Robotik-Markt boomt. Frischste News aus diesem Bereich: Anfang dieser Woche gab das Startup Stuttgarter Sereact eine 25-Millionen-Euro-Runde bekannt. Angeführt hatte die der schwedische … [+981 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Leena Rao",
+            "title": "Blockchain giant Chainalysis acquires AI agent startup Alterya",
+            "description": "AI agent cybersecurity startup Alterya has been bought by blockchain giant Chainalysis for over $100 million, Business Insider has learned.",
+            "url": "http://www.businessinsider.com/ai-agent-startup-alterya-acquired-by-chainalysis-2025-1",
+            "urlToImage": "https://i.insider.com/678410188951662c9f1fccc6?width=938&format=jpeg",
+            "publishedAt": "2025-01-13T12:00:01Z",
+            "content": "Before even leaving stealth mode, Alterya, a startup that uses AI agents to detect fraud, is being acquired by blockchain giant Chainalysis, Business Insider has learned from multiple sources.\r\nThe t… [+1410 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Forristal",
+            "title": "Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch",
+            "description": "Autonomous, AI-based players are coming to a gaming experience near you, and a new startup, Altera, is joining the fray to build this new guard of AI Research company Altera raised $9 million to build AI agents that can play video games alongside other player…",
+            "url": "https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/Minecraft-keyart.jpg?resize=1200,720",
+            "publishedAt": "2024-05-08T15:14:57Z",
+            "content": "Autonomous, AI-based players are coming to a gaming experience near you, and a new startup, Altera, is joining the fray to build this new guard of AI agents.\r\nThe company announced Wednesday that it … [+6416 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm and Theresa Loconsolo",
+            "title": "$450M for Noname, two billion-dollar rounds, and good news for crypto startups | TechCrunch",
+            "description": "This morning on Equity, not only do we have good news for crypto founders, we're also digging into Akamai spending $450 million for API security firm Noname, and billion dollar deals from Wiz and Wayve.",
+            "url": "https://techcrunch.com/2024/05/08/450m-for-noname-two-billion-dollar-rounds-and-good-news-for-crypto-startups/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-942480316.jpg?resize=1200,835",
+            "publishedAt": "2024-05-08T15:01:51Z",
+            "content": "Good news, crypto founders: Venture capital activity is picking up in your sector after falling to multi-year lows in late 2023. Put another way, venture folks appear more web3-bullish than before, e… [+1599 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Tim De Chant",
+            "title": "Mycocycle uses mushrooms to upcycle old tires and construction waste | TechCrunch",
+            "description": "The startup's fungi use their mycelium to consume oil-based rubbers and plastics, creating new bio-based materials in the process.",
+            "url": "https://techcrunch.com/2024/05/08/mycocycle-uses-mushrooms-to-upcycle-old-tires-and-construction-waste/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1350655821.jpeg?resize=1200,796",
+            "publishedAt": "2024-05-07T18:07:09Z",
+            "content": "Usually, when something starts to rot, it gets pitched in the trash. But Joanne Rodriguez wants to turn the concept of rot on its head by growing fungus on trash to turn it into something better.\r\nWe… [+4229 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "This startup gives your speech a new 'human-realistic' AI voice — for free",
+            "description": "From virtual assistants to voiceovers for audiobooks, AI voice generation has emerged as a rapidly growing field — and it’s no wonder that companies are rushing to tap into the ...",
+            "url": "http://thenextweb.com/news/this-startup-gives-your-speech-new-human-realistic-ai-voice-for-free",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-3-10.jpg&signature=00f248c68c2b3cfc8673a040d6097c35",
+            "publishedAt": "2023-06-21T13:30:20Z",
+            "content": "From virtual assistants to voiceovers for audiobooks, AI voice generation has emerged as a rapidly growing field and its no wonder that companies are rushing to tap into the technologys potential.\r\nA… [+3486 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Linnea Ahlgren",
+            "title": "3D-printed rocket engine revs up for orbital launch in Scotland",
+            "description": "Edinburgh-based aerospace startup Skyrora announced yesterday it had commenced a series of full-duration tests of its updated 3D-printed 70kN engine. \r\n\r\nThe new design features an ...",
+            "url": "http://thenextweb.com/news/3d-printed-rocket-engine-revs-up-orbital-launch-scotland",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2F70-kn-engine-1-1-1024x576-1-e1687258568667.jpg&signature=e504e335f8babf0e24721de9198d4fb6",
+            "publishedAt": "2023-06-20T12:00:47Z",
+            "content": "Edinburgh-based aerospace startup Skyrora announced yesterday it had commenced a series of full-duration tests of its updated 3D-printed 70kN engine. \r\nThe new design features an improved engine cool… [+3908 chars]"
+        }
+    ]
+}

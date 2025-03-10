@@ -1,0 +1,12 @@
+/* Ensure that all cards have the same height */
+.news-card {
+    display: flex;
+    flex-direction: column; /* Make sure the card content is arranged vertically */
+    height: 100%;
+    justify-content: space-between; /* Ensure the content inside the card is spaced out evenly */
+  }
+  
+  .card-body {
+    flex-grow: 1; /* Allow the body content to take up available space and push the footer down */
+  }
+  
